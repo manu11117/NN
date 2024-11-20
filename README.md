@@ -1,1 +1,3 @@
 # NN
+
+https://www.researchgate.net/publication/385944087_Detection_of_Cardiomegaly_in_Dogs_Using_a_Streamlined_CNN_Architecture
